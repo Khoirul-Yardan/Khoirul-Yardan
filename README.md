@@ -19,7 +19,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/QEpIy2yQDu0AAAAM/dazai-dazai-osamu.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/QEpIy2yQDu0AAAAM/dazai-dazai-osamu.gif"  />
 
 ###
 
@@ -77,4 +77,3 @@
 </div>
 
 ###
-
