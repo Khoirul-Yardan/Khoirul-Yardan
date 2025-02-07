@@ -19,7 +19,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media.tenor.com/QEpIy2yQDu0AAAAM/dazai-dazai-osamu.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/QEpIy2yQDu0AAAAM/dazai-dazai-osamu.gif"  />
 
 ###
 
@@ -78,6 +78,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Khoirul-Yardan/Khoirul-Yardan/output/snake.svg" alt="Snake animation" />
-
-###
