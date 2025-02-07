@@ -19,18 +19,7 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/y4rdn0_0/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://l.instagram.com/?u=https%3A%2F%2Fid.linkedin.com%2Fin%2Fkhoirul-yardan-mauluddin-zhorif-5970a2282%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaY9sFeKpc1E8uN3nR04QEzLIjatbfd641L7CHJmT9XooeinUnfkwyDlJNQ_aem_jBoHUDWmOwLTeJNgAnmDVg&e=AT1PGdeBjK-V4QvULY5EYEBMHgZ7ues6sWAF9VDUcZsbOr9Eke_QHPPumEcygrMH3z7WvxO6_hUdvHwoAJdK4LS8ee8MozZerGCNMPlIJpwKBxrsb3FazmY" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<img align="right" height="130" src="https://media.tenor.com/QEpIy2yQDu0AAAAM/dazai-dazai-osamu.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/QEpIy2yQDu0AAAAM/dazai-dazai-osamu.gif"  />
 
 ###
 
@@ -78,8 +67,17 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media.tenor.com/NlXV9iYFiSIAAAAM/cry-animecry.gif"  />
+<div align="left">
+  <a href="https://l.instagram.com/?u=https%3A%2F%2Fid.linkedin.com%2Fin%2Fkhoirul-yardan-mauluddin-zhorif-5970a2282%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaY9sFeKpc1E8uN3nR04QEzLIjatbfd641L7CHJmT9XooeinUnfkwyDlJNQ_aem_jBoHUDWmOwLTeJNgAnmDVg&e=AT1PGdeBjK-V4QvULY5EYEBMHgZ7ues6sWAF9VDUcZsbOr9Eke_QHPPumEcygrMH3z7WvxO6_hUdvHwoAJdK4LS8ee8MozZerGCNMPlIJpwKBxrsb3FazmY" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/y4rdn0_0/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Khoirul-Yardan/Khoirul-Yardan/output/snake.svg" alt="Snake animation" />
 
 ###
