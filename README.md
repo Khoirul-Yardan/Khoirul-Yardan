@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">I’m a passionate Frontend Developer with over 6 years of experience in crafting visually appealing and highly functional user interfaces. My expertise lies in creating responsive and interactive designs that provide seamless user experiences, using technologies like HTML, CSS, JavaScript, and modern frameworks such as React and Vue.js.<br><br>Currently, I’m pursuing my academic journey as a student at Politeknik Elektronika Negeri Surabaya (PENS) to deepen my understanding of technology and expand my horizons in software development.<br><br>I’m committed to learning and growing both professionally and academically, while striving to deliver exceptional solutions that bridge the gap between aesthetics and functionality.</p>
+<p align="left">I’m an emerging Full Stack Developer with a strong foundation in both frontend and backend development. I began my journey building responsive and interactive user interfaces using HTML, CSS, JavaScript, and frameworks like React and Vue.js. Over time, I expanded my skills to the backend side — developing APIs, managing databases such as MySQL and Firebase, and implementing features like authentication and data handling using PHP or Node.js.
+
+Currently, I’m studying at the Electronic Engineering Polytechnic Institute of Surabaya (PENS), where I actively work on projects that combine strong UI/UX with robust backend logic. My experience includes building data management dashboards, public reporting systems, time/location-based attendance platforms, and interactive websites integrated with camera functionality.
+
+To me, being a developer is not just about writing code — it’s about understanding user needs, designing thoughtful solutions, and delivering them end-to-end. I’m committed to continuous learning, exploring new technologies, and building effective, meaningful, and user-friendly applications.</p>
 
 ###
 
